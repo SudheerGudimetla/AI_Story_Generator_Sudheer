@@ -1,0 +1,27 @@
+AI Story Generator using GPT-2
+
+Name: Sudheer G
+Tech Stack: Python, Streamlit, Hugging Face Transformers
+Model Used: GPT-2
+Project Type: Web-based story generation app
+
+Objective:
+To build a web app that generates short stories based on user prompts using AI.
+
+Features:
+- Takes user input (story prompt)
+- Uses GPT-2 to generate creative story text
+- Runs as a Streamlit app
+
+Sample Prompt:
+A lonely robot explores Jupiter’s moon
+
+Output (example):
+The robot wandered the icy plains of Europa, searching for signs of life...
+
+How to Run:
+1. Install requirements: pip install -r requirements.txt
+2. Run app: streamlit run app.py
+
+Conclusion:
+This project shows how AI can help in creative writing and story generation. It's built using free, open-source tools and can be deployed as a web app or used in notebooks.
